@@ -1,6 +1,5 @@
-![Dolphin](images/dolphin-logo.png)
-
 (page under construction)
+
 # Dolphin
 
 Dolphin is a task orchestration language for autonomous 
