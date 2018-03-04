@@ -6,11 +6,14 @@ A Dolphin program expresses an orchestrated execution of tasks defined compositi
 
 The language is implemented as a [Groovy DSL](http://groovy-lang.org), facilitating extension and integration with external software packages, in particular robotic toolkits.  We have done so for the [LSTS toolchain](http://github.com/LSTS) and work torwards support for the [MAVLink](http://mavlink.io/en) drone protocol is in progress.
 
+
 ## Publications
  
 * Keila Lima, Eduardo R. B. Marques, José Pinto, João B. Sousa,
 [Dolphin: A task orchestration language for autonomous vehicle networks](docs/iros2018_submission.pdf), arXiv preprint of our submission to [IROS'18](http://www.iros2018.org)
   * [IROS'18 Companion video (extended version)](docs/iros2018_submission.mp4)
+
+[![Watch](images/watch_iros_video.png)](docs/iros2018_submission.mp4)
 
 * Keila Lima, [Dolphin: A domain-specific language for autonomous vehicle networks](https://repositorio-aberto.up.pt/bitstream/10216/110607/2/250115.pdf), 
 MSc Thesis, MIERSI/DCC/FCUP, 2017, supervised by Eduardo R. B. Marques
