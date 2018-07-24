@@ -10,7 +10,7 @@ The language is implemented as a [Groovy DSL](http://groovy-lang.org), facilitat
 ## Publications
  
 * Keila Lima, Eduardo R. B. Marques, José Pinto, João B. Sousa,
-[Dolphin: A task orchestration language for autonomous vehicle networks](docs/iros2018_submission.pdf), arXiv preprint of our submission to [IROS'18](http://www.iros2018.org)
+[Dolphin: A task orchestration language for autonomous vehicle networks](docs/iros2018_submission.pdf), [IROS'18](http://www.iros2018.org)
   * [IROS'18 companion video (extended version)](docs/iros2018_submission.mp4) - click the image below. 
 
 [![Watch](images/watch_iros_video.png)](docs/iros2018_submission.mp4)
