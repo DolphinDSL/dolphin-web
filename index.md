@@ -16,7 +16,7 @@ The language is implemented as a [Groovy DSL](http://groovy-lang.org), facilitat
 [![Watch](images/watch_iros_video.png)](docs/iros2018_submission.mp4)
 
 * Keila Lima, Eduardo R. B. Marques, José Pinto, João B. Sousa,
-[Programming networked vehicle systems using Dolphin - Field tests at REP'17](docs/oceans18.pdf), [IEEE/MTS Oceans'18](http://www.oceans18mtsieeekobe.org) (to appear). This is a short paper describing field tests we conducted during [REP'17](http://rep17.lsts.pt).
+[Programming networked vehicle systems using Dolphin - Field tests at REP'17](docs/oceans18.pdf), [IEEE/MTS Oceans'18](http://www.oceans18mtsieeekobe.org). This is a short paper describing field tests we conducted during [REP'17](http://rep17.lsts.pt).
 
 * Keila Lima, [Dolphin: A domain-specific language for autonomous vehicle networks](https://repositorio-aberto.up.pt/bitstream/10216/110607/2/250115.pdf), 
 MSc Thesis, MIERSI/DCC/FCUP, 2017, supervised by Eduardo R. B. Marques
