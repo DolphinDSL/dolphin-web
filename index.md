@@ -24,7 +24,7 @@ and José Pinto
 
 ## Team
 
-* Keila Lima, [LSTS/FEUP](http://www.lsts.pt), previously a MSc student
+* [Keila Lima](https://www.researchgate.net/profile/Keila_Lima), [LSTS/FEUP](http://www.lsts.pt), previously a MSc student 
 at [DCC/FCUP](http://www.dcc.fc.up.pt).
 * [Eduardo R. B. Marques](http://www.dcc.fc.up.pt/~edrdo), [DCC/FCUP](http://www.dcc.fc.up.pt) and [CRACS/INESC-TEC](http://cracs.fc.up.pt)
 * [José Pinto](http://zepinto.info), [LSTS/FEUP](http://www.lsts.pt)
