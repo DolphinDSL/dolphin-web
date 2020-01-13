@@ -29,4 +29,5 @@ at [DCC/FCUP](http://www.dcc.fc.up.pt).
 * [Eduardo R. B. Marques](http://www.dcc.fc.up.pt/~edrdo), [DCC/FCUP](http://www.dcc.fc.up.pt) and [CRACS/INESC-TEC](http://cracs.fc.up.pt)
 * [José Pinto](http://zepinto.info), [LSTS/FEUP](http://www.lsts.pt)
 * João B. Sousa, [LSTS/FEUP](http://www.lsts.pt) 
+* [Nuno Neto](https://github.com/nuno1212s/), [DCC/FCUP](http://www.dcc.fc.up.pt), BSc student working on the support for the MAVLink protocol.
 
