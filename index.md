@@ -4,7 +4,7 @@
 Dolphin is a task orchestration language for autonomous vehicle networks.
 A Dolphin program expresses an orchestrated execution of tasks defined compositionally for multiple vehicles.  Building upon the base case of elementary one-vehicle tasks, the built-in operators include support for composing tasks in several forms, for instance according to concurrent, sequential, or event-based task flow. 
 
-The language is implemented as a [Groovy DSL](http://groovy-lang.org), facilitating extension and integration with external software packages, in particular robotic toolkits.  We have done so for the [LSTS toolchain](http://github.com/LSTS) and work torwards support for the [MAVLink](http://mavlink.io/en) drone protocol is in progress.
+The language is implemented as a [Groovy DSL](http://groovy-lang.org), facilitating extension and integration with external software packages, in particular robotic toolkits.  We have done so for the [LSTS toolchain](http://github.com/LSTS) and [MAVLink](http://mavlink.io/en)-enabled vehicles.
 
 
 ## Publications
