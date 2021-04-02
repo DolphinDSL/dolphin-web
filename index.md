@@ -19,8 +19,9 @@ The language is implemented as a [Groovy DSL](http://groovy-lang.org), facilitat
 [Programming networked vehicle systems using Dolphin - Field tests at REP'17](docs/oceans18.pdf), [IEEE/MTS Oceans'18](http://www.oceans18mtsieeekobe.org). This is a short paper describing field tests we conducted during [REP'17](http://rep17.lsts.pt).
 
 * Keila Lima, [Dolphin: A domain-specific language for autonomous vehicle networks](https://repositorio-aberto.up.pt/bitstream/10216/110607/2/250115.pdf), 
-MSc Thesis, MIERSI/DCC/FCUP, 2017, supervised by Eduardo R. B. Marques
-and José Pinto
+MSc Thesis, MIERSI/DCC/FCUP, 2017, supervised by Eduardo R. B. Marques and José Pinto.
+
+* Nuno Neto, [MAVLink plugin for the Dolphin language](docs/nneto_dolphin_mavlink.pdf), BSC project report, 2020, supervised by Eduardo R. B. Marques.
 
 ## Team
 
@@ -29,5 +30,5 @@ at [DCC/FCUP](http://www.dcc.fc.up.pt).
 * [Eduardo R. B. Marques](http://www.dcc.fc.up.pt/~edrdo), [DCC/FCUP](http://www.dcc.fc.up.pt) and [CRACS/INESC-TEC](http://cracs.fc.up.pt)
 * [José Pinto](http://zepinto.info), [LSTS/FEUP](http://www.lsts.pt)
 * João B. Sousa, [LSTS/FEUP](http://www.lsts.pt) 
-* [Nuno Neto](https://github.com/nuno1212s/), [DCC/FCUP](http://www.dcc.fc.up.pt), BSc student working on the support for the MAVLink protocol.
+* [Nuno Neto](https://github.com/nuno1212s/), [DCC/FCUP](http://www.dcc.fc.up.pt), enabled support for the MAVLink protocol.
 
