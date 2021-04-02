@@ -28,7 +28,7 @@ MSc Thesis, MIERSI/DCC/FCUP, 2017, supervised by Eduardo R. B. Marques and José
 * [Keila Lima](https://www.researchgate.net/profile/Keila_Lima), [LSTS/FEUP](http://www.lsts.pt), previously a MSc student 
 at [DCC/FCUP](http://www.dcc.fc.up.pt).
 * [Eduardo R. B. Marques](http://www.dcc.fc.up.pt/~edrdo), [DCC/FCUP](http://www.dcc.fc.up.pt) and [CRACS/INESC-TEC](http://cracs.fc.up.pt)
-* [José Pinto](http://zepinto.info), [LSTS/FEUP](http://www.lsts.pt)
-* João B. Sousa, [LSTS/FEUP](http://www.lsts.pt) 
+* [José Pinto](https://www.lsts.pt/team/jose-pinto), [LSTS/FEUP](http://www.lsts.pt)
+* [João B. Sousa](https://www.lsts.pt/team/joao-sousa), [LSTS/FEUP](http://www.lsts.pt) 
 * [Nuno Neto](https://github.com/nuno1212s/), [DCC/FCUP](http://www.dcc.fc.up.pt), enabled support for the MAVLink protocol.
 
